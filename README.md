@@ -20,3 +20,7 @@ npm run dev #Or run 'gulp watch' test same like Liveserver reload
 npm init #Initial package from the package.json
 npm run prod # Or run gulp
 ```
+
+## Read inspriration 
+https://gist.github.com/alxmtr/c852ff71cb35761d2215552c8bab40f1
+https://gist.github.com/luisciphere/91ee46e1e977889bfcdab15a454ef7ff
